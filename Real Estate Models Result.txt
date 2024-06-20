@@ -1,0 +1,11 @@
+1. Linear Regression:
+    Mean:  9.062308735613446
+    Score Deviation : 2.053963590934623
+
+2. Decision Tree:
+    Mean:  9.906120894641658
+    Score Deviation : 2.8207482820441205
+
+3. Random Forest: (Selected)
+    Mean:  7.832782997243811
+    Score Deviation : 2.3548169020065037
